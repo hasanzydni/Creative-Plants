@@ -1,0 +1,157 @@
+!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Plantique.com</title><!--THIS IS TITLE TAG-->
+	<h1 style="color: GREEN"><center>Creative Plants</center></h1><!--THIS IS HEADING TAG-->
+	<link rel="stylesheet" type="text/css" href="style.css" >
+</head>
+<body>
+	<hr>
+
+	<h3 style="color :seagreen;" align="center"><b>AGALONEMA GREEN PLANT</b></h3>
+	<img src="E:\images\agalonema.jpeg" width="200px" style="padding-left: 45%">
+
+	<p><b>Agalonema </b>is a genus of flowering plants in the arum family, Araceae.</p>
+	<br>
+
+     <p>They are native to tropical and subtropical regions of Asia and New Guinea.<br> They are known commonly as Chinese evergreens.</p>
+     <br>
+     <p><b>Benefit Of Agalonema Plants</b></p>
+     <ul ><!-- THIS IS LIST FEATURE-->
+     	<li>Chinese Evergreen helps to improve the air quality</li>
+     	<li>Its has more Beautiful colour</li>
+     	<li>great plant for a bedroom right</li>
+     	<li>improve the air quality of your indoor spaces with the ability to filter indoor air pollutants and toxins.</li>
+     </ul>
+     <br>
+
+     <p><b>CLICK TO BUY THE AGALONEMA PLANT</b></p>
+     <a href="https://rootbridges.com/collections/aglaonema/products/aglaonema-lipstick"target="blank">Buy-Aglonema Plant</a><!-- Linking the website to other webpage-->
+
+
+     <hr>
+	<h3 style="color:seagreen;"align="center"><b>SPIDER PLANT<b></h3>
+	<img src="E:\images\spiderPlant.jpg" width="200px" style="padding-left: 45%">
+    
+	<p>Chlorophytum comosum, usually called spider plant or common spider plant due to its spider-like look, also known as spider ivy, ribbon plant, and hen and chickens is a species of evergreen perennial flowering plant of the family Asparagaceae</p>
+	<br>
+	<p>Spider plant helps clean indoor air. </p>
+    <br>
+	<p>Studies have shown that spider plant is quite effective in cleaning indoor air by absorbing chemicals including formaldehyde, xylene, benzene, and carbon monoxide in homes or offices.</p>
+	<br>
+	<p><b> Benefit Of  Spider Plant </b></p>
+	<ul>
+		<li>Spider Plant Purifies Air</li>
+		<li>Spider Plant Increases Oxygen Levels</li>
+		<li>Spider Plant Is Safe For Pets</li>
+		<li>Spider Plant Doesn't Require Much Maintenance</li>
+	</ul>
+	<br>
+
+	<p><centre><b>CLICK TO BUY THE SPIDER PLANT</b></centre></p>
+	<centre><a href="https://nurserylive.com/products/chlorophytum-spider-plant-dark-green-1082-plant"target="blank">Buy-Spider Plant</a></centre>
+
+	<hr>
+
+
+	<!-- <table>
+		
+		<head>
+			<centre>
+			<tr>
+				<th>S NO</th>
+				<th>PLANTS NAME</th>
+				<th>RUPEE (INR)</th>
+			</tr>
+		</centre>
+		</head>
+<br>
+
+		<body>
+			<br>
+			<centre>
+			<tr>
+				<td>01</td>
+				<td>Agalonema Plant</td>
+				<td>299</td>
+			</tr>
+			<tr>
+				<td>02</td>
+				<td>Spider Plant</td>
+				<td>199</td>
+			</tr>
+			<tr>
+				<td>03</td>
+				<td>Bonsai Plant</td>
+				<td>399</td>
+				</centre>
+			</tr>
+		
+	</table>
+ -->
+
+
+ <div class="hasan">
+	<form action="next.php" method="POST">
+	
+	 <label>NAME</label><input type="text" name="Search">
+	
+	 <br>
+	 <label>Email</label>
+	 <input type="text" name="mail">
+	 <br>
+	 <label>Phone No</label>
+	 <input type="number" name="num">
+	 <br>
+	 <label>Address</label>
+	 <input type="text" name="add">
+	 <br>
+	
+	 <label>Comments</label>
+	 <textarea></textarea>
+	 <br>
+	  <input type="submit" value="Submit">
+
+
+<br>
+</form> 	
+ </div>
+
+<!--  <div class="">
+ 	<table>
+ 		<tr>
+ 			<td>
+ 				<label>Name</label>
+ 			</td>
+ 			<td>
+ 				<input type="text" name="name">
+ 			</td>
+ 		</tr>
+ 		<tr>
+ 			<td>
+ 				<label>Email</label>
+ 			</td>
+ 			<td>
+ 				<input type="text" name="Search">
+ 			</td>
+
+ 			<tr>
+ 				<td>
+ 					<label>Contact No</label>
+ 				</td>
+ 				<td>
+ 					<input type="number" name="no">
+ 				</td>
+
+ 			</tr>
+
+
+ 		</tr>
+ 	</table>
+ </div>
+ -->
+
+</body>
+</html>
